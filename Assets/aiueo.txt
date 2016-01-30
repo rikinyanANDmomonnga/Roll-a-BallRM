@@ -1,11 +1,8 @@
 aiueo
 222222
 sample
-<<<<<<< HEAD
 eeeeeeeeeeeeeeeeeee
-=======
 aiueo
 aaaaa
 cccc
 dddddddd
->>>>>>> 58d41674108abc8f4c8bf32c703b3950a83b3a3c
