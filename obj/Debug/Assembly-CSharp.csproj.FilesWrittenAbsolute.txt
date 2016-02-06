@@ -1,0 +1,17 @@
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/obj/Debug/Assembly-CSharp.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/UnityEngine.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/UnityEditor.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Mono.Cecil.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Unity.DataContract.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/yumu/Documents/Unity Projects/Unity_RollingBall/Temp/bin/Debug/Mono.Cecil.Mdb.dll
